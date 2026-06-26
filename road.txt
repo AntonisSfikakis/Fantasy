@@ -1,0 +1,23 @@
+Break to points 
+
+-----1-----
+Write a python script to web scrapt data from Euroleauge official site
+
+-----2-----
+Create a database there with each players stats
+
+-----3-----
+Configure rating-elo system
+
+-----4-----
+How many points hou have available ? 
+how many players you want of your choice?
+which players do you want?
+Ask for players
+Seach for players
+
+-----5-----
+Rest points -> best squad : 
+
+
+
